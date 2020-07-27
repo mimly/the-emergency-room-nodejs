@@ -1,0 +1,4 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:mimly/the-emergency-room-client.git
+	branch = nodejs-master
